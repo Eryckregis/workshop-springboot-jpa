@@ -1,7 +1,6 @@
 package com.estudandospring.course.entities;
 
 import com.estudandospring.course.entities.pk.OrderItemPk;
-import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
